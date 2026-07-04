@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
