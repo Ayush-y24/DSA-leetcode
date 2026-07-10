@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0013-roman-to-integer) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
