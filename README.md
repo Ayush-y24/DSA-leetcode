@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
