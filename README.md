@@ -120,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
