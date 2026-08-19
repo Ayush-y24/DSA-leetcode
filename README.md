@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
+| [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -125,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
