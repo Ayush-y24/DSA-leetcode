@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0575-distribute-candies](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0735-asteroid-collision) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0575-distribute-candies](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
