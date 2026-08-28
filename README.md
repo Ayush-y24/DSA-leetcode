@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -150,9 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
