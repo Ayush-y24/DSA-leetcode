@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
