@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
