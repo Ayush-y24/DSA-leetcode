@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
