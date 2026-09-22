@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
