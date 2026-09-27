@@ -1,21 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        // Negative numbers are not palindromes
-        if (x < 0) return false;
+        if(x < 0 || (x % 10 == 0 && x != 0)){
+            return false;
+        }
 
-        // Initialize variables for reversing the number
-        long reversed = 0;
-        int original = x;
+        int newnum = 0;
 
-        // Reverse the number
-        while (x != 0) {
-            int digit = x % 10;
-            reversed = reversed * 10 + digit;
+        while(x > newnum){
+            int rem = x % 10;
+            newnum = newnum * 10 + rem;
             x /= 10;
         }
 
-        // Check if the original number matches the reversed number
-        return original == reversed;
+        return (x == newnum || x == newnum / 10);
     }
 };
