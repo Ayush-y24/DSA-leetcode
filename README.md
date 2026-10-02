@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0575-distribute-candies](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0575-distribute-candies) |
