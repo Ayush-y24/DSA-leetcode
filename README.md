@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
