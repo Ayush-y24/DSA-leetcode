@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0268-missing-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0396-rotate-function) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
