@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0881-boats-to-save-people](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0881-boats-to-save-people](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayush-y24/DSA-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
