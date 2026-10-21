@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0881-boats-to-save-people) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1288-remove-covered-intervals) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0692-top-k-frequent-words) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
