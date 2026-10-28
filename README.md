@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1260-shift-2d-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0645-set-mismatch) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
