@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0229-majority-element-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ayush-y24/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Ayush-y24/DSA-leetcode/tree/master/1260-shift-2d-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ayush-y24/DSA-leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
